@@ -4,6 +4,10 @@
 
 
 
+### Event 
+- [Double Click](https://stackoverflow.com/questions/4511908/connect-double-click-event-of-qlistview-with-method-in-pyqt4)
+
+
 ### QTable
 - [Row or Column index from QTable click event](https://stackoverflow.com/questions/45159103/pyqt-qtableview-after-click-how-to-know-row-and-col)
 
