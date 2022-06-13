@@ -2,12 +2,20 @@
 
 **This repository is under construction.** 
 
+
+
+### QTable
+- [Row or Column index from QTable click event](https://stackoverflow.com/questions/45159103/pyqt-qtableview-after-click-how-to-know-row-and-col)
+
+
 - Color Picker 
   - [PYQT color picker](https://pythonspot.com/pyqt5-color-dialog/)
   - [QColorDialog-GeeksforGeeks](https://www.geeksforgeeks.org/pyqt5-qcolordialog/)
 
 ### Tutorials 
 - [Calculator App](https://realpython.com/python-pyqt-gui-calculator/)
+
+
 
 
 ### References
